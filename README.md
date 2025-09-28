@@ -33,21 +33,9 @@ Para compilar e testar o LangoOS, você precisará de um ambiente de desenvolvim
 3.  **QEMU:** Um emulador de máquina para rodar o LangoOS sem afetar seu sistema operacional principal.
 4.  **Make:** Para automatizar o processo de *build* usando o `Makefile` do projeto.
 
-### Passos de Compilação
 
-1.  **Clonar o Repositório:**
-    ```bash
-    git clone [https://www.youtube.com/watch?v=X49Wz3icO3E](https://www.youtube.com/watch?v=X49Wz3icO3E)
-    cd langoos
-    ```
-2.  **Compilar (Usando o Makefile):**
-    ```bash
-    make
-    ```
-3.  **Executar no QEMU:**
-    ```bash
-    make run
-    ```
+
+ 
 
 ## 📝 Próximos Passos (Roadmap)
 
@@ -62,8 +50,4 @@ Os próximos objetivos do LangoOS incluem:
 
 Este é um projeto de aprendizado aberto. Contribuições são bem-vindas! Se você deseja contribuir com código, documentação ou novas ideias, consulte o arquivo `CONTRIBUTING.md` (a ser criado) para mais detalhes.
 
-## 📜 Licença
 
-O LangoOS é distribuído sob a Licença **MIT**.
-
----
